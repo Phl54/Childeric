@@ -27,8 +27,7 @@ Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un m
 			Chaque position a été évaluée sur une profondeur de 6 1/2 coups  
 			Au total 4 198 301 386 814 combinaisons ont été évaluées avec succès
 
-* __2017 11__ Version *1.3*   Début d'analyse de la position et optimisations (vitesse de calcul 10.5M nodes/sec)
-	* Précalcul des BitScan des bitboard pour les sliders, les cavaliers et les rois
+* __2017 11__ Version *1.3*   Début d'analyse de la position
 	* Intégration du calcul de la clé de hachage de la position
 	* Intégration du calcul du score matériel de la position
 	
