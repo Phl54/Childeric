@@ -2,6 +2,8 @@
 Moteur d'échecs en C# par Philippe Vallar  
 Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un moteur d'échecs en C#](https://www.youtube.com/feed/trending)
 
+-----------------
+
 ## Historique des versions
 * __2017 07__ Version *1.0*   Version initiale  (vitesse de calcul 1.5M nodes/sec)
 
@@ -29,3 +31,5 @@ Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un m
 	* Précalcul des BitScan des bitboard pour les sliders, les cavaliers et les rois
 	* Intégration du calcul de la clé de hachage de la position
 	* Intégration du calcul du score matériel de la position
+	
+-----------------
