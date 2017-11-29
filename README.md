@@ -1,6 +1,6 @@
 # Childeric v 1.3
-Moteur d'échecs en C# par Philippe Vallar
-Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un moteur d'échecs en C#](http://youtube.com/fr)
+Moteur d'échecs en C# par Philippe Vallar  
+Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un moteur d'échecs en C#](https://www.youtube.com/feed/trending)
 
 ## Historique des versions
 * __2017 07__ Version *1.0*   Version initiale  (vitesse de calcul 1.5M nodes/sec)
