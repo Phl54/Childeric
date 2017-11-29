@@ -32,4 +32,3 @@ Ce dépot GitHub sert de support au tutoriel vidéo sur YouTube [Programmer un m
 	* Intégration du calcul de la clé de hachage de la position
 	* Intégration du calcul du score matériel de la position
 	
------------------
